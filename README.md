@@ -4,11 +4,8 @@ Hello there! I'm Nartan Naik. Welcome to my central space where you will find al
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/folder-open.svg" width="24" height="24" align="absmiddle"> Projects
 
-* **[Project Name 1]** - *Brief description of the project, what it does, and the technologies used.*  
-  [Link to Release/Repository]
-
-* **[Project Name 2]** - *Brief description of the project, what it does, and the technologies used.*  
-  [Link to Release/Repository]
+* **CyberCube** - *Cross-platform security sensor agents (Windows, Linux, macOS) for an AI-powered SOC platform.*
+[https://ai-powered-cyber-threat-detection-soc.onrender.com]
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/address-card.svg" width="24" height="24" align="absmiddle"> Get in Touch
 
